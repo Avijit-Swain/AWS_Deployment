@@ -1,2 +1,2 @@
 # AWS_Deployment
- Deployement of Flask API on AWS.
+ Deployment of Flask API on AWS.
